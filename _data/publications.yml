@@ -1,0 +1,25 @@
+conferences:
+  - title: "The Most Amazing Paper"
+    authors: You, Co-Author 1, Co-Author 2
+    conference: International Conference on Your Favorite Research Topic
+    year: 2024
+    bibtex: bibtex_file
+    pdf_link: pdf_link
+    code: link_to_your_amazing_code
+  - title: "Ooops, I did it again! How to be creating and get yet another amazing paper"
+    authors: I. Love, B. Iking, D. Rawing and You
+    conference: Brazilian Conference on Another Cool Research Topic
+    year: 2024
+    bibtex: bibtex_file
+    pdf_link: pdf_link
+  - title: "This one will spark a lot of discussions"
+    authors: You, A. Re, A. Mazing, I. Ncredible, and E. Xcellent
+    conference: 1st Conference on Novelas
+    year: 2024
+    bibtex: test
+    code: link_to_your_amazing_code
+white_papers:
+  - title: "Wow, Such Science"
+    authors: You and Y. OurBestFriend
+    conference: Another Cool Research Topic Workshop
+    year: 2025

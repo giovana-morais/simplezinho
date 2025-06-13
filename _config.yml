@@ -1,0 +1,18 @@
+title: "simplezinho"
+author: "Giovana Morais"
+github_repo: "giovana-morais/simplezinho"
+email: giovana.vmorais@gmail.com
+
+navigation:
+ - name: About
+   link: /about
+ - name: Projects
+   link: /projects
+ - name: CV
+   link: /resume
+ # - name: Research
+ #   link: /research
+ - name: Publications
+   link: /publications
+ - name: Blog
+   link: /blog
