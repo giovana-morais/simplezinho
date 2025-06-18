@@ -3,6 +3,10 @@ author: "Giovana Morais"
 github_repo: "giovana-morais/simplezinho"
 email: giovana.vmorais@gmail.com
 
+permalink: /:slug.html
+theme_config:
+  date_format: "%d-%m-%Y"
+
 navigation:
  - name: About
    link: /about
